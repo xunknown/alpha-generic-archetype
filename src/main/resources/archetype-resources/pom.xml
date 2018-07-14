@@ -14,7 +14,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<packageDirectory>${project.build.directory}/package</packageDirectory>
+		<packageDirectory>${project.build.directory}/${project.artifactId}-${project.version}</packageDirectory>
 		<mainClass>${package}.App</mainClass>
 	</properties>
 

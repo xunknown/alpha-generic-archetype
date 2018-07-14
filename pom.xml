@@ -9,7 +9,7 @@
 	<packaging>maven-archetype</packaging>
 
 	<name>alpha-generic-archetype</name>
-	<description>alpha-generic-archetype: with dependencies slf4j-api, log4j-slf4j-impl, log4j-core, commons-lang3, executable JAR</description>
+	<description>alpha-generic-archetype: with dependencies slf4j-api, log4j-slf4j-impl, log4j-core, commons-lang3, build executable JAR with separated dependency files and Log4j 2 configuration file.</description>
 	<build>
 		<extensions>
 			<extension>
